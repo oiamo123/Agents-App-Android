@@ -1,4 +1,4 @@
-# TravelExperts-Android
+# Agents App - Android
 A small android application I built for an assignment in school. The goal of the application was to display all agents and when an agent was clicked on, to open a new activity and show the agents details. I decided however to go outside of the classes assignment, taught myself some Kotlin and applied it to this project.
 
 Overview:
