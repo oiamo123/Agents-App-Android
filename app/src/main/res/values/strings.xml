@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Agents App</string>
+    <string name="back_button">Back</string>
+    <string name="choose_agent">Agents</string>
+    <string name="edit_agent">Add / Edit Agent</string>
+    <string name="agent_id">ID</string>
+    <string name="agent_first">First Name</string>
+    <string name="agent_middle">Initial</string>
+    <string name="agent_last">Last Name</string>
+    <string name="agent_phone">Phone</string>
+    <string name="agent_email">Email</string>
+    <string name="agent_pos">Position</string>
+    <string name="agent_agency">Agency ID</string>
+    <string name="button_save">Save</string>
+    <string name="button_delete">Delete</string>
+    <string name="button_add">Add</string>
+    <string name="agent_img">Agent profile picture</string>
+</resources>
